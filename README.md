@@ -1,5 +1,9 @@
 # Decoder ADS-B
 
+Alunos que que desenvolveram o projeto: 
+    - Ernesto Gonçalves Costa
+    - Rafael Araújo
+    - Douglas Ammirante
 Script criado para a decodificação de mensagens ADS-B.
 
 __Requisitos:__

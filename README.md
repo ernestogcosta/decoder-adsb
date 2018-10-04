@@ -1,6 +1,6 @@
 # Decoder ADS-B
 
-Alunos que que desenvolveram o projeto: 
+Alunos que desenvolveram o projeto: 
 * Ernesto Gonçalves Costa
 * Rafael Araújo
 * Douglas Ammirante
